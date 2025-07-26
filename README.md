@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Tai
 
 <!--
 **uiuxadeadev/uiuxadeadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Full-stack developer crafting efficient web applications with modern technologies
+
+📈 Improving every single day.
 
 <!--START_SECTION:badges-->
 <!-- For BADGE https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-design -->
