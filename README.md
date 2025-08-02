@@ -51,11 +51,8 @@ Full-stack developer crafting efficient web applications with modern technologie
 
 ---
 
-## 🌍 Ecosystem Technology Overview
-
+## 📊 Cross-Organization Language Distribution
 **Total Code**: 49,293 lines across 14 repositories in 4 organizations
-
-### 📊 Cross-Organization Language Distribution
 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟩🟩🟩🟩🟦🟦🟦🟦🟪⬜🟫
 
 🟨 **JavaScript** 44.8% (22,078 lines) • *Ecosystem, BusinessHub*  
