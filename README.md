@@ -65,41 +65,6 @@ Full-stack developer crafting efficient web applications with modern technologie
 ⬜ **Node.js** 4.9% (2,400 lines) • *BusinessHub, Ecosystem*  
 🟫 **HTML** 3.8% (1,855 lines) • *BusinessHub, PersonalHub*  
 
-### 🏢 Organization Breakdown
-
-#### BusinessHub Hub
-**17,440 lines** • **5 repositories** • **Primary**: JavaScript
-
-🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟪🟪⬜⬜🟫
-
-▪ **JavaScript** 41.0% (7,150 lines)  
-▪ **TypeScript** 34.8% (6,070 lines)  
-▪ **CSS** 7.4% (1,294 lines)  
-▪ **Node.js** 6.9% (1,200 lines)  
-▪ **HTML** 4.6% (799 lines)  
-
-#### PersonalHub Hub
-**12,674 lines** • **4 repositories** • **Primary**: JavaScript
-
-🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟩🟩🟩🟩🟦🟦🟦🟦🟪🟪🟪🟫
-
-▪ **JavaScript** 48.2% (6,108 lines)  
-▪ **Python** 17.7% (2,237 lines)  
-▪ **TypeScript** 14.9% (1,890 lines)  
-▪ **CSS** 10.0% (1,269 lines)  
-▪ **HTML** 5.5% (702 lines)  
-
-#### AcademicHub Hub
-**8,474 lines** • **3 repositories** • **Primary**: Python
-
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟧🟧🟧🟫⬜
-
-▪ **Python** 64.1% (5,430 lines)  
-▪ **JavaScript** 16.1% (1,363 lines)  
-▪ **Java** 10.5% (890 lines)  
-▪ **HTML** 4.2% (354 lines)  
-▪ **C++** 2.8% (234 lines)  
-
 
 ## 🛠️ Technical Expertise Matrix
 
