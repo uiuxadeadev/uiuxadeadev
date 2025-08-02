@@ -46,22 +46,25 @@ Full-stack developer crafting efficient web applications with modern technologie
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!--END_SECTION:badges-->
 
+---
+
 ## 🎯 Professional Overview
 **Full-Stack Developer** | **Computer Science Student** | **Freelance Entrepreneur** | **Future Graduate Researcher**
 
----
+
 
 ## 📊 Cross-Organization Language Distribution
-**Total Code**: 49,293 lines across 14 repositories in 4 organizations
-🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟩🟩🟩🟩🟦🟦🟦🟦🟪⬜🟫
+**Total Code**: 74,943 lines across 17 repositories in 4 organizations
 
-🟨 **JavaScript** 44.8% (22,078 lines) • *Ecosystem, BusinessHub*  
-🟩 **Python** 16.2% (8,007 lines) • *AcademicHub, PersonalHub*  
-🟦 **TypeScript** 16.1% (7,960 lines) • *BusinessHub, PersonalHub*  
-🟪 **CSS** 5.6% (2,766 lines) • *BusinessHub, PersonalHub*  
-⬜ **Node.js** 4.9% (2,400 lines) • *BusinessHub, Ecosystem*  
-🟫 **HTML** 3.8% (1,855 lines) • *BusinessHub, PersonalHub*  
 
+🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟩🟩🟩🟪⬜⬜
+
+🟨 **JavaScript** 42.1% (31,559 lines) • *BusinessHub, Ecosystem*  
+🟦 **TypeScript** 27.1% (20,310 lines) • *BusinessHub, PersonalHub*  
+🟩 **Python** 10.3% (7,697 lines) • *AcademicHub, PersonalHub*  
+🟪 **CSS** 5.0% (3,766 lines) • *BusinessHub, PersonalHub*  
+⬛ **Markdown** 3.9% (2,926 lines) • *Ecosystem, BusinessHub*  
+⬜ **Node.js** 3.2% (2,400 lines) • *BusinessHub, Ecosystem*  
 
 ## 🛠️ Technical Expertise Matrix
 
@@ -82,5 +85,3 @@ Full-stack developer crafting efficient web applications with modern technologie
 - **Design Systems**: ██████████░░ 85% (Scalable + Consistent)
 - **User Research**: ███████░░░░░ 70% (Data-Driven + Empathetic)
 - **Accessibility**: ████████░░░░ 75% (Inclusive + Standards)
-
----
