@@ -49,7 +49,7 @@ Full-stack developer crafting efficient web applications with modern technologie
 ---
 
 ## 🎯 Professional Overview
-**Full-Stack Developer** | **Computer Science Student** | **Freelance Entrepreneur** | **Future Graduate Researcher**
+**Full-Stack Developer** | **Freelance Entrepreneur**
 
 
 
