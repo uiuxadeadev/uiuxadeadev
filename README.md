@@ -61,7 +61,6 @@ Total Code: 563,133 lines across 18 repositories in 4 organizations
 - 🟩 **Go** 39.2% (220,515 lines) • DevBusinessHub
 - 🟦 **TypeScript** 19.9% (112,008 lines) • DevBusinessHub, DevPersonalHub  
 - 🟨 **JavaScript** 8.0% (44,964 lines) • All organizations
-- ⬛ **Markdown** 37.0% (208,307 lines) • Documentation across all
 - 🟪 **Python** 1.4% (8,007 lines) • DevAcademicHub, DevPersonalHub
 - 🟧 **GraphQL** 1.2% (6,722 lines) • DevBusinessHub
 - 🟫 **SQL** 1.1% (6,128 lines) • DevBusinessHub
